@@ -1,5 +1,5 @@
 # 💫 About Me:
-Gen AI enthusiast💻<br>Algorithms and Cricket🏏<br>Learning to make machines learn🚀
+Python Backend Dev -Gen AI enthusiast💻<br>Algorithms and Cricket🏏<br>Learning to make machines learn🚀
 
 
 ## 🌐 Socials:
